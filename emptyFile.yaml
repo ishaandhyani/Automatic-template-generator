@@ -1,0 +1,1200 @@
+- uuid: b5000657-58d0-4d45-84c0-ba24cf89f270
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 11a92460-f25b-4332-9e97-ad19dc11074d
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: fb3c4509-a75f-4526-8b76-6ba695d35f9c
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 874b909e-8885-40ac-858c-3fa701a8088d
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 929e3e40-9930-400b-a02c-113766349d83
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 5daa9adc-0038-469b-a72a-50a35615e1e8
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 42b347e9-f3e8-45cc-990c-ac2fc0d7d59b
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 0cdf8f68-cc13-4568-b985-e85aec32ddca
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 9544caae-0efb-4493-a1b8-4bb603e607c6
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: c5dfe8fb-dab8-4440-afed-2a83bc4cafe4
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: b77fb256-da8c-4917-b788-10a30ae1c8ef
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: f0cbe6df-c552-49fa-9686-993153498d73
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 457520f1-391a-4e52-9b85-3494c9256ca9
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: d02d7ba3-7723-4ccb-aba3-09330fd19574
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 0299b8e2-85c1-4a04-847f-1cdd0ec3c3b2
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 1a3ce873-36af-4c3c-a4f4-51c99596ac9c
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 3120cf6f-5d1e-48de-944a-e7b5b7250f51
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 09b62f40-bb30-420f-9ea2-9269c6b1a5b0
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 730f68cd-a68e-4ff9-a3a3-4e4181bac722
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 88081449-79e5-4f6b-a83b-201679f02be7
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 1a8ccf21-92b7-4f69-b974-866d45922ee3
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 9ec8363e-4073-4958-8cff-9fd924715fb0
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: f37de11b-581b-4cac-8037-96735f9873f0
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 92752bab-b15a-4f4c-ad09-f685a00838aa
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 1be3eae1-103c-4e8e-a95a-bfe0b481e717
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 112f0d2c-78b8-4421-9938-66254222a804
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: d704f97e-ab66-4ecc-a6fb-3f6ce28fa6b7
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: cdd6b64f-ec45-43e8-981e-6774a826af0d
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 57f02539-c81c-4487-89f8-b79fb83fedc5
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 6a3f2d5f-79df-4352-8911-892e62183bdf
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: efa5bb58-b1f2-41fd-b793-09b82e600bab
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: b09c29fb-1ede-4ea9-85e4-6347604e6f23
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: d8c8a5eb-ef0e-4399-bad6-f80e26a5a613
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 1857e9ae-679c-4015-8f6c-09b0deb0f63f
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: ef9d591d-2cbd-4105-9937-4fc964d2a092
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 7a367ee9-4eac-4ab0-b783-5f354fbc3157
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 5ca214f7-885b-4ef5-b762-87a6c7acee0e
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 699f9318-263b-4de9-8a61-08f9d698c3af
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 54349988-f557-4529-95dc-d19d53b67bbb
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: ddb435ea-28bd-4c08-97d7-f7ed04e6be20
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: d33c45c8-c672-4e5a-809b-4f2087112758
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 437cbce4-1e8f-478b-b7e0-340f7b77948b
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 331f4ee8-01c4-4733-a2f2-08c928cce0ea
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 62bafade-91b4-41ee-b703-9a9b81df4b11
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 94018f79-28d5-47a6-84d5-806230c07c7f
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 8a633154-3641-4345-9c7f-88610dcbb601
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 92a15ecc-0eeb-4eaf-8848-43d85434536b
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 48af230d-ca00-4818-9573-b22f4143e957
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: dc91be32-63f8-48ac-ac65-e9e1d65dcdb7
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
+- uuid: 02dfbc8a-1bc2-4870-8812-e1f6a5e0e978
+  type: MultipleChoice
+  content: question
+  hint: hint
+  explanation: explanation
+  answerKeys:
+    - A
+  topic: 01_data_types
+  sub_topics:
+    - variables
+  difficulty_level: Low
+  choices:
+    - content: option 1
+      key: A
+      order: 0
+    - content: option 2
+      key: B
+      order: 1
+    - content: option 3
+      key: C
+      order: 2
+    - content: option 4
+      key: D
+      order: 3
