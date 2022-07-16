@@ -10,8 +10,8 @@ const questionObj = {
   explanation: "explanation",
   answerKeys: ["A"],
   topic: "01_data_types",
-  sub_topics: ["variables"],
-  difficulty_level: "Low",
+  subTopics: ["variables"],
+  difficultyLevel: "Low",
   choices: [
     {
       content: "option 1",
